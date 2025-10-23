@@ -1,8 +1,8 @@
 ## Setup
 
 ```
-git clone https://github.com/zcahkwn/someproject
-cd someproject
+git clone https://github.com/zcahkwn/q-learning
+cd q-learning
 ```
 
 ### Give execute permission to your script and then run `setup_repo.sh`
