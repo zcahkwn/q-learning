@@ -1,4 +1,4 @@
-# Q-learning examples 
+# Q-learning 
 In this repo, Q learning examples are demonstrated, and economics concepts are explored.
 
 ## Setup
