@@ -1,3 +1,6 @@
+# Q-learning examples 
+In this repo, basic 
+
 ## Setup
 
 ```
@@ -56,4 +59,6 @@ pip install toml
 ```bash
 pip install -e ".[dev]"
 ```
+
+---
 
